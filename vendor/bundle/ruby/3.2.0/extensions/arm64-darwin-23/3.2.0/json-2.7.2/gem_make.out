@@ -1,0 +1,16 @@
+current directory: /Users/matsuyamahideyuki/work/railstutorial_v7/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/Users/matsuyamahideyuki/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/matsuyamahideyuki/work/railstutorial_v7/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240425-36962-j258qs sitelibdir\=./.gem.20240425-36962-j258qs clean
+
+current directory: /Users/matsuyamahideyuki/work/railstutorial_v7/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240425-36962-j258qs sitelibdir\=./.gem.20240425-36962-j258qs
+make: Nothing to be done for `all'.
+
+current directory: /Users/matsuyamahideyuki/work/railstutorial_v7/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240425-36962-j258qs sitelibdir\=./.gem.20240425-36962-j258qs install
+
+current directory: /Users/matsuyamahideyuki/work/railstutorial_v7/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240425-36962-j258qs sitelibdir\=./.gem.20240425-36962-j258qs clean

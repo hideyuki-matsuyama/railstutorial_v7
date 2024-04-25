@@ -1,0 +1,22 @@
+current directory: /Users/matsuyamahideyuki/work/railstutorial_v7/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.5.6/ext/jaro_winkler
+/Users/matsuyamahideyuki/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/matsuyamahideyuki/work/railstutorial_v7/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.5.6/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240425-36962-myampk sitelibdir\=./.gem.20240425-36962-myampk clean
+
+current directory: /Users/matsuyamahideyuki/work/railstutorial_v7/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.5.6/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240425-36962-myampk sitelibdir\=./.gem.20240425-36962-myampk
+compiling adj_matrix.c
+compiling codepoints.c
+compiling jaro.c
+compiling jaro_winkler.c
+linking shared-object jaro_winkler/jaro_winkler_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/matsuyamahideyuki/work/railstutorial_v7/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.5.6/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240425-36962-myampk sitelibdir\=./.gem.20240425-36962-myampk install
+/usr/bin/install -c -m 0755 jaro_winkler_ext.bundle ./.gem.20240425-36962-myampk/jaro_winkler
+
+current directory: /Users/matsuyamahideyuki/work/railstutorial_v7/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.5.6/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240425-36962-myampk sitelibdir\=./.gem.20240425-36962-myampk clean
